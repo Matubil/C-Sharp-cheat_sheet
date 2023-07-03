@@ -10,4 +10,5 @@ La cláusula `select` se utiliza en la sintaxis de consulta para especificar las
 var result = from element in collection
              select element.Property;
 
-/*Este código devuelve una nueva colección que contiene solo las propiedades element.Property de cada elemento de la colección.*/
+```
+Este código devuelve una nueva colección que contiene solo las propiedades `element.Property` de cada elemento de la colección.

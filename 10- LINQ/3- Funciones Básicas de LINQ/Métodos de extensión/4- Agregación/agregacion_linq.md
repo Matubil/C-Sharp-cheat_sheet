@@ -11,5 +11,3 @@ Aquí tienes algunos ejemplos de las funciones de agregación más comunes:
 - `Max()`: Retorna el valor máximo de una colección.
 
 Además de estas funciones, también existen otras funciones de agregación que puedes explorar.
-
-¡Experimenta con diferentes funciones de agregación y descubre cómo LINQ facilita el cálculo de valores resumidos a partir de tus colecciones!

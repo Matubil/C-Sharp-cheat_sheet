@@ -16,12 +16,3 @@ A continuación, se presentan las palabras clave básicas utilizadas en la sinta
 
 A continuación, se presentan algunos ejemplos de cómo utilizar la sintaxis de consulta en LINQ:
 
-### Ejemplo 1: Consulta básica
-
-Supongamos que tenemos una lista de objetos `Person` con propiedades como `Name`, `Age` y `City`. Podemos realizar una consulta para obtener todas las personas mayores de 18 años y ordenarlas por nombre de la siguiente manera:
-
-```csharp
-var adults = from person in people
-             where person.Age > 18
-             orderby person.Name
-             select person;

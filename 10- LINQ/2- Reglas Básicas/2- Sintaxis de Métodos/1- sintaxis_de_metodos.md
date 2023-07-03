@@ -21,9 +21,4 @@ A continuación, se presentan algunos de los operadores de métodos de extensió
 
 A continuación, se presentan algunos ejemplos de cómo utilizar la sintaxis de métodos de extensión en LINQ:
 
-### Ejemplo 1: Filtrar elementos
 
-Podemos filtrar una lista de números para obtener solo los números pares:
-
-```csharp
-var evenNumbers = numbers.Where(num => num % 2 == 0);

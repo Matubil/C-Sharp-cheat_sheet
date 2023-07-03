@@ -1,0 +1,1 @@
+En C#, las funciones se utilizan para agrupar instrucciones y realizar tareas específicas. Puedes declarar funciones dentro de una clase o como funciones independientes. Aquí tienes algunos ejemplos de declaraciones de funciones en C#

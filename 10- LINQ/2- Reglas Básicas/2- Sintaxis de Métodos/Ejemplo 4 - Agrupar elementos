@@ -1,0 +1,3 @@
+//Podemos agrupar una lista de personas por su ciudad:
+
+var groupedPeople = people.GroupBy(person => person.City);

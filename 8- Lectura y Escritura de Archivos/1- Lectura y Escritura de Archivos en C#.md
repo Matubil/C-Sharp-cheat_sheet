@@ -1,0 +1,1 @@
+En C#, puedes leer y escribir archivos utilizando las clases disponibles en el espacio de nombres System.IO. Aquí tienes algunos ejemplos de cómo leer y escribir archivos en C#:

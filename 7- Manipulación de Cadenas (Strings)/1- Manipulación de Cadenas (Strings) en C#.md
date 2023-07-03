@@ -1,0 +1,1 @@
+Las cadenas (strings) son secuencias de caracteres que se utilizan para representar texto en C#. A continuación tienes algunos ejemplos de cómo manipular cadenas en C#

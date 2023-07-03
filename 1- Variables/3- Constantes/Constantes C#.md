@@ -1,0 +1,1 @@
+En C#, también es posible declarar constantes, que son valores inmutables que no pueden cambiar durante la ejecución del programa.

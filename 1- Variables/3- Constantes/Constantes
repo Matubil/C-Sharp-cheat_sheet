@@ -1,0 +1,2 @@
+const double PI = 3.14159;
+const int DiasSemana = 7;

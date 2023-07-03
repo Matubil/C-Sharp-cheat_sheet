@@ -1,0 +1,1 @@
+En C#, las variables se utilizan para almacenar y manipular datos. Antes de usar una variable, debemos declararla, especificando su tipo y nombre. A continuación, se muestran algunos ejemplos de declaraciones de variables en C#:

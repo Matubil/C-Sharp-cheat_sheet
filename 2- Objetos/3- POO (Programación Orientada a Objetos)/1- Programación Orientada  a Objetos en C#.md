@@ -1,0 +1,1 @@
+En C#, puedes utilizar la programación orientada a objetos (POO) para organizar y estructurar tu código en clases, objetos y conceptos relacionados. Aquí tienes algunos ejemplos de cómo trabajar con la POO en C#

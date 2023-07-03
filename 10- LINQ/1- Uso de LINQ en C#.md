@@ -1,0 +1,1 @@
+Language Integrated Query (LINQ) es una tecnología de C# que permite realizar consultas y operaciones en colecciones de datos de una manera elegante y eficiente. Aquí tienes algunos ejemplos de cómo utilizar LINQ en C#

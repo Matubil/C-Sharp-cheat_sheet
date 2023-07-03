@@ -1,0 +1,1 @@
+En C#, puedes utilizar el manejo de excepciones para controlar errores y situaciones inesperadas que puedan ocurrir durante la ejecución de tu programa. Aquí tienes algunos ejemplos de cómo manejar excepciones en C#

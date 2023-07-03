@@ -1,0 +1,22 @@
+public class Empleado : Persona
+{
+    // Propiedad adicional
+    public string Cargo { get; set; }
+
+    // Constructor adicional
+    public Empleado(string nombre, int edad, string cargo) : base(nombre, edad)
+    {
+        Cargo = cargo;
+    }
+
+    // Método adicional
+    public void Trabajar()
+    {
+        Console.WriteLine($"{Nombre} está trabajando como {Cargo}.");
+    }
+}
+
+// Creación de un objeto derivado
+Empleado empleado = new Empleado("María", 25, "Desarrolladora");
+empleado.Saludar();
+empleado.Trabajar();

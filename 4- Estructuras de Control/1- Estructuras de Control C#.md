@@ -1,0 +1,1 @@
+En C#, las estructuras de control te permiten controlar el flujo de ejecución de un programa. Puedes utilizar diferentes estructuras de control para tomar decisiones, repetir instrucciones y realizar otras acciones. A continuación, se presentan algunos ejemplos de estructuras de control en C#

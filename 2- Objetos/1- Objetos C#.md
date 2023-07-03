@@ -1,0 +1,1 @@
+En C#, los objetos se utilizan para representar entidades o conceptos del mundo real. Puedes declarar objetos utilizando clases previamente definidas o creando tus propias clases. A continuación, se muestran ejemplos de declaraciones de objetos en C#

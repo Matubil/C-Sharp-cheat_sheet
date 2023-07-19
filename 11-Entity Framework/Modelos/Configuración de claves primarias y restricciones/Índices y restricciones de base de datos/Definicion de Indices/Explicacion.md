@@ -1,0 +1,1 @@
+Los índices son estructuras de datos utilizadas para mejorar la velocidad de búsqueda y recuperación de datos en una tabla de la base de datos. Puedes definir índices en Entity Framework utilizando anotaciones de atributos o Fluent API.

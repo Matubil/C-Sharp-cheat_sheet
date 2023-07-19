@@ -1,0 +1,1 @@
+Puedes aplicar restricciones y validaciones en las propiedades de las entidades para garantizar la integridad de los datos. Entity Framework proporciona una variedad de atributos y configuraciones para aplicar restricciones y validaciones.

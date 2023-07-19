@@ -1,0 +1,9 @@
+public class Customer
+{
+    [Key] // Atributo [Key] para marcar la propiedad como clave primaria
+    public int CustomerId { get; set; }
+
+    // Resto de propiedades
+}
+
+/*En el ejemplo anterior, hemos utilizado el atributo [Key] para marcar la propiedad CustomerId como clave primaria en la clase Customer.*/

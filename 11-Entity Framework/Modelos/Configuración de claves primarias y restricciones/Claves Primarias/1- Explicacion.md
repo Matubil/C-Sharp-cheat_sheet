@@ -1,0 +1,2 @@
+Configuración de claves primarias
+Las claves primarias son propiedades que identifican de forma única cada registro en una tabla de la base de datos. En Entity Framework, puedes configurar claves primarias utilizando atributos o mediante Fluent API.

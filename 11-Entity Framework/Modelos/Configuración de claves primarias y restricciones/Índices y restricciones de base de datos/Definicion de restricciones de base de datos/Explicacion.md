@@ -1,0 +1,1 @@
+Las restricciones de base de datos se utilizan para imponer reglas o condiciones adicionales en los datos almacenados en una tabla. Puedes definir restricciones de base de datos en Entity Framework utilizando anotaciones de atributos o Fluent API.
